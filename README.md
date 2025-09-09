@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Nguyễn Trương Trí Minh>,MSSV<224525>.
+Đây là README từ nhánh conflict-demo.
